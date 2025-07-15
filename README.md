@@ -3,6 +3,7 @@
 
 **About the App
 **
+
 This is a simple web-based To-Do List & Daily Planner that lets users:
 
 Add tasks with due dates
